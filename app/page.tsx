@@ -71,7 +71,7 @@ export default function App() {
             ))}
           </div>
 
-          <a href="https://wa.me/56933042830" target="_blank" className="hidden md:block bg-[#4f9d9e] text-white px-6 py-2 rounded-full font-bold hover:opacity-90 transition shadow-md">
+          <a href="https://www.acvet.app/agenda/reserva/3DYCYGVBFUAB" target="_blank" className="hidden md:block bg-[#4f9d9e] text-white px-6 py-2 rounded-full font-bold hover:opacity-90 transition shadow-md">
             Reserva Hora
           </a>
 
