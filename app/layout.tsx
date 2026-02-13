@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Trivet Centro Médico Veterinario",
     description: "Atención profesional y dedicada para tus mascotas en Puerto Montt.",
-    url: "https://trivet-murex.vercel.app",
+    url: "https://trivetpm.vercel.app",
     siteName: "Trivet",
     images: [
       {
